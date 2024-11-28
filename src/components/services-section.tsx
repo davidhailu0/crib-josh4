@@ -1,6 +1,4 @@
 'use client'
-
-import { motion } from 'framer-motion'
 import { PenTool, Search, Share2 } from 'lucide-react'
 import { ServiceCard } from './service-card'
 
